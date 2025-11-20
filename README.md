@@ -1,5 +1,6 @@
 
 # DACOMMERCE
+DSCommerce, programado em react que faz o consumo da API programado em Java/SpringBoot
 - [Acessar Projeto](https://react-commerce-reactjs-tha.netlify.app/)
 
 ## Competencias
